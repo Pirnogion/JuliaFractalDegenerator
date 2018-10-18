@@ -8,3 +8,5 @@ Navigate:
  ctrl and numpad '+' or '-' - change fractal precision
  
  You can use a mouse.
+
+Require Love2d!
